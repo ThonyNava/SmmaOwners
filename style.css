@@ -68,8 +68,8 @@ body{
 .text_box{
     width: 36vh;
     max-width: 36vw;
-    height: 6vh;
-    max-height: 14vw;
+    height: 16vh;
+    /* max-height: 14vw; */
     display: flex;
     align-items: flex-start;
 }
@@ -503,8 +503,8 @@ a svg #medium{
     .text_box{
         width: 75vh;
         max-width: 75vw;
-        height: 23vh;
-        max-height: 23vw;
+        height: 32vh;
+        /* max-height: 23vw; */
         justify-content: center;
     }
 
